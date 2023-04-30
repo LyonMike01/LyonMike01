@@ -29,7 +29,7 @@ List of technologies and tools used in my tech stack.
 ![html](https://user-images.githubusercontent.com/70530526/225276225-b0feb6a6-dd6e-42a3-a37e-797873013785.png)
 ![css](https://user-images.githubusercontent.com/70530526/225276324-49afacde-ffe4-49b3-b819-624bf980b061.png)
 ![javascript](https://user-images.githubusercontent.com/70530526/225276399-9d4a42a4-f124-4d44-a592-8204271e0e50.png)
-![EJS](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png)
+![EJS](https://ibb.co/wLcYNPg)
 ![node](https://user-images.githubusercontent.com/70530526/225276462-3701896e-607b-4c5d-a968-cd4727e24c3e.png)
 ---
 

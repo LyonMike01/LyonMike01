@@ -19,9 +19,9 @@ As a backend Web Developer, I take pride in using my coding skills to solve prac
 ---
 Please don't hesitate to reach out to me if needed.
 
-<a href="#">![link](https://user-images.githubusercontent.com/70530526/194545073-72e9972d-66a9-4b10-b217-ddca946946b3.png)</a>
-<a href="https://twitter.com/Lyonmike01">![tw](https://user-images.githubusercontent.com/70530526/194545182-2a7e8263-28a5-4258-8a71-7612f5f3d1bf.png)</a>
-<a href="https://www.linkedin.com/mwlite/in/titiloye-temitope-michael-8483b21b8">![in](https://user-images.githubusercontent.com/70530526/194545129-cbf39e7d-4585-4496-8ecb-af2110e9a6a5.png)</a>
+<a href="#">![Link](https://user-images.githubusercontent.com/83300622/235382859-b2acf683-d14a-427f-84af-d35a7944481c.png)</a>
+<a href="https://twitter.com/Lyonmike01">![TW](https://user-images.githubusercontent.com/83300622/235382839-ba6d9100-b5f4-4e64-a107-5f809e370e08.png)</a>
+<a href="https://www.linkedin.com/mwlite/in/titiloye-temitope-michael-8483b21b8">![L](https://user-images.githubusercontent.com/83300622/235382822-fbbf36ce-6261-4822-926c-dc25dc2c2062.png)</a>
 ---
 
 List of technologies and tools used in my tech stack.
